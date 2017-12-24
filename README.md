@@ -1,2 +1,6 @@
 # hello_github
-First project
+
+Hi,
+MorroP here, I like typing a lot. Hope there are enough characters...
+
+Cheers
